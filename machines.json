@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Production API",
+        "url": "https://api.github.com",
+        "type": "http"
+    },
+    {
+        "name": "Staging Server",
+        "url": "https://www.google.com",
+        "type": "http"
+    },
+    {
+        "name": "Head Office",
+        "url": "58.65.197.61",
+        "type": "ping"
+    }
+]
