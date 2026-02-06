@@ -1,17 +1,45 @@
 [
     {
-        "name": "Production API",
-        "url": "https://api.github.com",
-        "type": "http"
-    },
-    {
-        "name": "Staging Server",
-        "url": "https://www.google.com",
-        "type": "http"
-    },
-    {
-        "name": "Head Office",
+        "name": "Head Office Storm Fiber",
         "url": "58.65.197.61",
         "type": "ping"
-    }
+    },
+    {
+        "name": "Head Office Transworld",
+        "url": "58.65.197.61",
+        "type": "ping"
+    },
+    {
+        "name": "Port Qasim Sharptel",
+        "url": "58.65.197.61",
+        "type": "ping"
+    },
+    {
+        "name": "Port Qasim PTCL",
+        "url": "58.65.197.61",
+        "type": "ping"
+
+    },
+        {
+        "name": "Gharo Rice PTCL",
+        "url": "58.65.197.61",
+        "type": "ping"
+    },
+    {
+        "name": "Gharo Rice ZONG",
+        "url": "58.65.197.61",
+        "type": "ping"
+    },
+    {
+        "name": "Golarchi Local",
+        "url": "58.65.197.61",
+        "type": "ping"
+    },
+
+    {
+        "name": "Golarchi PTCL",
+        "url": "58.65.197.61",
+        "type": "ping"
+
+    },
 ]
