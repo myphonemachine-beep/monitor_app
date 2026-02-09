@@ -6,28 +6,32 @@
     },
     {
         "name": "Head Office Transworld",
-        "url": "58.65.197.61",
+        "url": "110.93.230.29",
         "type": "ping"
     },
     {
         "name": "Port Qasim Sharptel",
-        "url": "58.65.197.61",
+        "url": "113.203.236.122",
         "type": "ping"
     },
     {
         "name": "Port Qasim PTCL",
-        "url": "58.65.197.61",
+        "url": "202.70.158.197",
         "type": "ping"
-
     },
-        {
+    {
         "name": "Gharo Rice PTCL",
-        "url": "58.65.197.61",
+        "url": "202.70.158.199",
         "type": "ping"
     },
     {
         "name": "Gharo Rice ZONG",
-        "url": "58.65.197.61",
+        "url": "209.150.151.198",
+        "type": "ping"
+    },
+    {
+        "name": "Gharo MDF Sharptel",
+        "url": "203.170.76.26",
         "type": "ping"
     },
     {
@@ -35,11 +39,28 @@
         "url": "58.65.197.61",
         "type": "ping"
     },
-
     {
         "name": "Golarchi PTCL",
         "url": "58.65.197.61",
         "type": "ping"
-
+    },
+    {
+        "name": "SKP 1 GCS",
+        "url": "154.208.59.228",
+        "type": "ping"
+    },
+    {
+        "name": "SKP 1 PTCL",
+        "url": "154.208.59.227",
+        "type": "ping"
+    },
+    {
+        "name": "SKP 2 GCS",
+        "url": "154.208.59.229",
+        "type": "ping"
+    },
+    {
+        "name": "SKP 2 Cyber",
+        "url": "100.85.181.64",
+        "type": "ping"
     }
-]
